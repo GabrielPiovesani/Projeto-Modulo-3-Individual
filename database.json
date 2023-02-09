@@ -1,0 +1,173 @@
+{
+  "timesBrasileiros": [
+    {
+      "id": 1,
+      "nome": "Avai",
+      "estado": "Santa Catarina",
+      "cores": "Azul e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Atletico Mineiro",
+      "estado": "Minas Gerais",
+      "cores": "Preto e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Cruzeiro",
+      "estado": "Minas Gerais",
+      "cores": "Azul e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "Corinthians",
+      "estado": "São Paulo",
+      "cores": "Preto e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nome": "Flamengo",
+      "estado": "Rio De Janeiro",
+      "cores": "Vermelho e Preto",
+      "categoria_id": 1
+    },
+    {
+      "id": 6,
+      "nome": "Fluminense",
+      "estado": "Rio De Janeiro",
+      "cores": "Bordo, Branco e Verde",
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nome": "Fortaleza",
+      "estado": "Ceara",
+      "cores": "Branco, Vermelho e Azul",
+      "categoria_id": 1
+    },
+    {
+      "id": 8,
+      "nome": "Goais",
+      "estado": "Goais",
+      "cores": "Verde e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 9,
+      "nome": "Gremio",
+      "estado": "Rio Grande Do Sul",
+      "cores": "Azul, Preto e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 10,
+      "nome": "Internacional",
+      "estado": "Rio Grande Do Sul",
+      "cores": "Vermelho e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 11,
+      "nome": "Sao Paulo",
+      "estado": "Sao Paulo",
+      "cores": "Preto,Vermelho e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 12,
+      "nome": "Palmeiras",
+      "estado": "Sao Paulo",
+      "cores": "Verde e Branco",
+      "categoria_id": 1
+    }
+  ],
+  "timesEstrangeiros":[
+    {
+      "id": 1,
+      "nome": "Arsenal",
+      "país": "Inglaterra",
+      "cores": "Vermelho e Branco",
+      "categoria_id": 2
+    },
+    {
+      "id": 2,
+      "nome": "Boca Juniors",
+      "país": "Argentina",
+      "cores": "Azul e Amarelo",
+      "categoria_id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Chelsea",
+      "país": "Inglaterra",
+      "cores": "Azul e Branco",
+      "categoria_id": 2
+    },
+    {
+      "id": 4,
+      "nome": "Intercionazionale",
+      "país": "Italia",
+      "cores": "Azul e Branco",
+      "categoria_id": 2
+    },
+    {
+      "id": 5,
+      "nome": "Milan",
+      "país": "Italiano",
+      "cores": "Vermelho e Preto",
+      "categoria_id": 1
+    },
+    {
+      "id": 6,
+      "nome": "Real Madrid",
+      "país": "Espanha",
+      "cores": "Branca",
+      "categoria_id": 2
+    },
+    {
+      "id": 7,
+      "nome": "Barcelona",
+      "país": "Espanha",
+      "cores": "Bordo, Vermelho e Azul",
+      "categoria_id": 2
+    },
+    {
+      "id": 8,
+      "nome": "Juventus",
+      "país": "Italia",
+      "cores": "Preto e Branco",
+      "categoria_id": 2
+    },
+    {
+      "id": 9,
+      "nome": "Liverpool",
+      "país": "Inglaterra",
+      "cores": "Vermelho",
+      "categoria_id": 2
+    },
+    {
+      "id": 10,
+      "nome": "Bayer de Munique",
+      "país": "Alemanha",
+      "cores": "Vermelho e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 11,
+      "nome": "River Plate",
+      "país": "Argentina",
+      "cores": "Preto,Vermelho e Branco",
+      "categoria_id": 1
+    },
+    {
+      "id": 12,
+      "nome": "Yokahama Marinos",
+      "país": "japão",
+      "cores": "Branco e Azul",
+      "categoria_id": 1
+    }
+]}
