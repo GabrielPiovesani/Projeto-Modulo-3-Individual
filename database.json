@@ -1,5 +1,5 @@
 {
-  "timesBrasileiros": [
+  "times-brasileiros": [
     {
       "id": 1,
       "nome": "Avai",
@@ -85,7 +85,7 @@
       "categoria_id": 1
     }
   ],
-  "timesEstrangeiros":[
+  "times-internacionais":[
     {
       "id": 1,
       "nome": "Arsenal",
@@ -119,7 +119,7 @@
       "nome": "Milan",
       "país": "Italiano",
       "cores": "Vermelho e Preto",
-      "categoria_id": 1
+      "categoria_id": 2
     },
     {
       "id": 6,
@@ -154,20 +154,63 @@
       "nome": "Bayer de Munique",
       "país": "Alemanha",
       "cores": "Vermelho e Branco",
-      "categoria_id": 1
+      "categoria_id": 2
     },
     {
       "id": 11,
       "nome": "River Plate",
       "país": "Argentina",
       "cores": "Preto,Vermelho e Branco",
-      "categoria_id": 1
+      "categoria_id": 2
     },
     {
       "id": 12,
       "nome": "Yokahama Marinos",
       "país": "japão",
       "cores": "Branco e Azul",
-      "categoria_id": 1
+      "categoria_id": 2
     }
+],"selecoes":[
+  {
+    "id": 1,
+    "nome": "Alemanha",
+    "país": "Alemanha",
+    "cores": "Vermelho e Branco",
+    "categoria_id": 3
+  },
+  {
+    "id": 2,
+    "nome": "Argentina",
+    "país": "Argentina",
+    "cores": "Azul e Branco",
+    "categoria_id": 3
+  },
+  {
+    "id": 3,
+    "nome": "Japão",
+    "país": "Japão",
+    "cores": "Branco e Azul",
+    "categoria_id": 3
+  },
+  {
+    "id": 4,
+    "nome": "Brasil",
+    "país": "Brasil",
+    "cores": "Amarelo, Branco e Azul",
+    "categoria_id": 3
+  },
+  {
+    "id": 5,
+    "nome": "França",
+    "país": "França",
+    "cores": "Azul e Branco",
+    "categoria_id": 3
+  },
+  {
+    "id": 6,
+    "nome": "Holanda",
+    "país": "Holanda",
+    "cores": "Laranja e Branco",
+    "categoria_id": 3
+  }
 ]}
