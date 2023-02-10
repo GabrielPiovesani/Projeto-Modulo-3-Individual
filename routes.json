@@ -1,0 +1,20 @@
+{
+    "/times-brasileiros/list": "/times-brasileiros/",
+    "/times-brasileiros/create": "/times-brasileiros/",
+    "/times-brasileiros/update/:id": "/times-brasileiros/:id",
+    "/times-brasileiros/delete/:id": "/times-brasileiros/:id",
+
+    "/times-internacionais/list": "/times-internacionais/",
+    "/times-internacionais/create": "/times-internacionais/",
+    "/times-internacionais/update/:id": "/times-internacionais/:id",
+    "/times-internacionais/delete/:id": "/times-internacionais/:id",
+
+
+    "/selecoes/list": "/selecoes/",
+    "/selecoes/create": "/selecoes/",
+    "/selecoes/update/:id": "/selecoes/:id",
+    "/selecoes/delete/:id": "/selecoes/:id"
+}
+    
+
+   
